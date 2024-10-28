@@ -13,3 +13,6 @@
 ### HW1
 [Hw1網頁](https://lestonedddd.github.io/hw/)<br>
 [HW1程式碼](https://github.com/lestonedddd/internet001/blob/main/index.html)
+### HW2
+[Hw2網頁](https://lestonedddd.github.io/hw/)<br>
+[HW2程式碼](https://github.com/lestonedddd/internet001/blob/main/index.html)
