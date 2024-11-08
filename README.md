@@ -17,5 +17,5 @@
 [Hw2影片](https://youtu.be/LGTUNxyxMXs)<br>
 [HW2程式碼](https://github.com/lestonedddd/internet001/blob/main/App.js)
 ### HW3
-[Hw2影片](https://youtu.be/yo_3g7cgDx8)<br>
+[Hw3影片](https://youtu.be/yo_3g7cgDx8)<br>
 [HW3檔案](https://github.com/lestonedddd/internet001/blob/main/HW3.pdf)
